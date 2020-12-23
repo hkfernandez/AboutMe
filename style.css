@@ -1,0 +1,26 @@
+body {
+    background-color: #1c215c;
+    /* background-image: url("images/blue2.png");
+    background-position: top;
+    background-size: cover; */
+}
+
+div {
+    border: solid white 1px;
+}
+
+header {
+    border: solid white 2px;
+}
+
+/* main {
+    border: solid red 10px;
+} */
+
+/* .orange {
+    border: solid orange 10px;
+} */
+
+/* footer {
+    border: solid red 10px;
+} */
